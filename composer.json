@@ -1,0 +1,14 @@
+{
+    "name": "lulu/study-monolog",
+    "description": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "siluzhou",
+            "email": "siluzhou_pku@163.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.21"
+    }
+}
