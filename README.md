@@ -35,7 +35,7 @@ $log->error('Bar');
 - [Extending Monolog]()
 
 ## 第三方包
-[wiki](https://github.com/Seldaek/monolog/wiki/Third-Party-Packages)上列出了第三方处理器、标准格式列表、当你发布一个自己的库时也可以自行添加。
+[wiki](https://github.com/siluzhou/StudyMonolog/wiki/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%8C%85)上列出了第三方处理器、标准格式列表、当你发布一个自己的库时也可以自行添加。
 
 ## 关于
 ### 要求
