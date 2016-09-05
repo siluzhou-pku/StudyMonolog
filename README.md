@@ -41,9 +41,6 @@ $log->error('Bar');
 
 
 [wiki](https://github.com/siluzhou-pku/StudyWiki/wiki/Monolog_%E7%9B%8A%E5%A4%84)
-
-
-
 上列出了第三方处理器、标准格式列表、当你发布一个自己的库时也可以自行添加。
 
 ## 关于
