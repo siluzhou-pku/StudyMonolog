@@ -39,7 +39,8 @@ $log->error('Bar');
 
 ## 第三方包
 
-[wikhub.com/siluzhou-pku/StudyWiki/wiki/Mon)
+
+[wiki](https://github.com/siluzhou-pku/StudyWiki/wiki/Monolog_%E7%9B%8A%E5%A4%84)
 
 
 
